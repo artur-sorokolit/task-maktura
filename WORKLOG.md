@@ -29,6 +29,7 @@ The commit history is not as it happened. I told the agent not to commit while i
 | Reviewing the code and the interface         | 10 min  |
 | Writing the rules for agents                 | 10 min  |
 | Checking everything at the end               | 10 min  |
-| Total                                        | 50 min  |
+| Deploying the live copy to Render            | 5 min   |
+| Total                                        | 55 min  |
 
 The agent ran on its own for about half an hour on the first build and about fifteen minutes on the refactor. I was not watching it for most of that.
