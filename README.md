@@ -2,6 +2,8 @@
 
 A small web app that turns a LinkedIn engagement export into a ranked list of people worth a phone call, with reasons a salesperson can read. It is my answer to Part A of [TASK.md](TASK.md).
 
+A live copy runs at https://task-maktura.onrender.com. It is on Render's free tier, so the first request after a quiet spell takes about a minute, and the database is wiped whenever the service sleeps or restarts. Import `engagements.json` again if the list is empty.
+
 ## Run it
 
 You need Node 22 or newer.
@@ -72,4 +74,4 @@ The ranking tests call only the public function and state the rules in their nam
 - Show what each import added and let the user remove a wrong one.
 - Run the browser test at phone width as well. The layout works on a phone, but only the desktop size is tested.
 - Add a CI workflow that runs `npm run check` and the browser test on every push.
-- Deploy it. The app is one Node process with a file database, so it needs a host with a persistent disk.
+- Give the live copy a persistent disk. The app is one Node process with a file database, and the free host it runs on does not keep files.
