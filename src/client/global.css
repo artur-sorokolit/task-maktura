@@ -130,3 +130,10 @@ button.quiet {
   clip-path: inset(50%);
   white-space: nowrap;
 }
+
+@media (pointer: coarse) {
+  button,
+  select {
+    min-height: 2.75rem;
+  }
+}

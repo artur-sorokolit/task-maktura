@@ -77,6 +77,10 @@
 }
 
 @media (max-width: 32rem) {
+  .card {
+    padding: 0.9rem;
+  }
+
   .rank {
     display: none;
   }

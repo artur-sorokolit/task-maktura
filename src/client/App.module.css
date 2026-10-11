@@ -75,3 +75,41 @@
   margin: 0.75rem auto 0;
   color: var(--muted);
 }
+
+@media (max-width: 40rem) {
+  .header {
+    gap: 0.5rem 0.75rem;
+  }
+
+  .nav {
+    margin-left: auto;
+  }
+
+  .nav a {
+    padding: 0.35rem 0.55rem;
+  }
+
+  .tools {
+    flex-wrap: nowrap;
+    width: 100%;
+    margin-left: 0;
+  }
+
+  .account {
+    flex: 1;
+    min-width: 0;
+  }
+
+  .account span {
+    display: none;
+  }
+
+  .account select {
+    width: 100%;
+    max-width: none;
+  }
+
+  .main {
+    padding: 1rem 0.75rem 3rem;
+  }
+}

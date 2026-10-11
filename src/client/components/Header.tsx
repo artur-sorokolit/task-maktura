@@ -26,7 +26,11 @@ const AccountSwitcher = ({
 }) => (
   <label className={styles.account}>
     <span>Account</span>
-    <select value={selected} onChange={(event) => onSelect(event.target.value)}>
+    <select
+      aria-label="Account"
+      value={selected}
+      onChange={(event) => onSelect(event.target.value)}
+    >
       {accounts.map((account) => (
         <option key={account.id} value={account.id}>
           {account.name}, {account.company}

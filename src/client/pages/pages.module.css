@@ -68,3 +68,48 @@
 .nowrap {
   white-space: nowrap;
 }
+
+@media (max-width: 40rem) {
+  .table,
+  .table tbody,
+  .table tr,
+  .table td {
+    display: block;
+  }
+
+  .table thead {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip-path: inset(50%);
+  }
+
+  .table tr {
+    padding: 0.75rem 0.9rem;
+    border-bottom: 1px solid var(--border);
+  }
+
+  .table tr:last-child {
+    border-bottom: none;
+  }
+
+  .table td {
+    padding: 0.1rem 0;
+    border-bottom: none;
+  }
+
+  .table td:empty {
+    display: none;
+  }
+
+  .table td:first-child {
+    color: var(--muted);
+    font-size: 0.8125rem;
+  }
+
+  .table td:last-child button {
+    margin-top: 0.4rem;
+    padding-left: 0;
+  }
+}
