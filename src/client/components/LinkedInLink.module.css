@@ -1,0 +1,10 @@
+.link {
+  display: inline-flex;
+  margin-left: 0.5rem;
+  color: #0a66c2;
+  vertical-align: -2px;
+}
+
+.link:hover {
+  opacity: 0.8;
+}

@@ -1,0 +1,83 @@
+.card {
+  display: flex;
+  gap: 1rem;
+  padding: 1rem 1.1rem;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: var(--surface);
+}
+
+.rank {
+  flex: none;
+  width: 1.75rem;
+  color: var(--muted);
+  font-size: 1.125rem;
+  font-variant-numeric: tabular-nums;
+  font-weight: 600;
+}
+
+.body {
+  flex: 1;
+  min-width: 0;
+}
+
+.header {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 0.5rem 1.5rem;
+}
+
+.header h2 {
+  font-size: 1.125rem;
+  line-height: 1.3;
+}
+
+.facts {
+  display: flex;
+  gap: 1.5rem;
+  margin: 0;
+}
+
+.facts dt {
+  color: var(--muted);
+  font-size: 0.75rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.facts dd {
+  margin: 0;
+  font-variant-numeric: tabular-nums;
+}
+
+.score {
+  color: var(--accent);
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+.reasons {
+  margin: 0.75rem 0 0;
+  padding-left: 1.1rem;
+  list-style: disc;
+}
+
+.reasons li + li {
+  margin-top: 0.2rem;
+}
+
+.reasons blockquote {
+  margin: 0.3rem 0 0.4rem;
+  padding-left: 0.75rem;
+  border-left: 3px solid var(--border);
+  color: var(--muted);
+  overflow-wrap: anywhere;
+}
+
+@media (max-width: 32rem) {
+  .rank {
+    display: none;
+  }
+}

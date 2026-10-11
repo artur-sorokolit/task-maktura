@@ -1,0 +1,33 @@
+.result {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-bottom: 1.25rem;
+  padding: 0.75rem 0.75rem 0.75rem 1rem;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  color: var(--text);
+  overflow-wrap: anywhere;
+}
+
+.result ul {
+  margin: 0.35rem 0 0;
+  padding-left: 1.1rem;
+  font-size: 0.9375rem;
+}
+
+.result p {
+  margin-top: 0.35rem;
+  font-size: 0.9375rem;
+}
+
+.success {
+  border-color: var(--accent);
+  background: var(--accent-soft);
+}
+
+.error {
+  border-color: var(--danger);
+  background: var(--danger-soft);
+}
