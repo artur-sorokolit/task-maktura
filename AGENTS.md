@@ -90,6 +90,6 @@ Refactor one module at a time and keep its contract. If a module cannot meet the
 - The app makes no language model calls at runtime, has no sign-in and does not use the LinkedIn API.
 - UI text is plain English for a salesperson. Reasons never mention points.
 
-## Files the author writes
+## Files for the reviewers
 
-The author writes README.md, WORKLOG.md and REVIEW.md by hand. `review-sample.ts` is the subject of that review, so do not fix it or import it.
+README.md and WORKLOG.md are written for the people reviewing this task. Keep README.md true when you change how the app runs or what it decides. REVIEW.md is the author's review of `review-sample.ts`. Do not fix or import `review-sample.ts`.
