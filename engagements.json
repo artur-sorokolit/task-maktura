@@ -1,0 +1,72 @@
+{
+  "account": {
+    "name": "Priya Shah",
+    "profileUrl": "https://www.linkedin.com/in/priya-shah-northgate",
+    "company": "Northgate Surveyors"
+  },
+  "asOf": "2026-09-28T09:00:00+01:00",
+  "targetRoles": [
+    "Managing Director",
+    "Finance Director",
+    "Operations Director",
+    "Head of Property",
+    "Estates Manager",
+    "CFO",
+    "COO"
+  ],
+  "knownContacts": [
+    "https://www.linkedin.com/in/marcusbell"
+  ],
+  "posts": [
+    { "id": "p-100", "publishedAt": "2026-07-28T08:00:00+01:00", "title": "Summer: what we learned from forty lease exits" },
+    { "id": "p-101", "publishedAt": "2026-08-26T08:05:00+01:00", "title": "Why the survey is the cheapest part of the deal" },
+    { "id": "p-102", "publishedAt": "2026-09-02T08:10:00+01:00", "title": "Three things we saw go wrong on dilapidations this summer" },
+    { "id": "p-103", "publishedAt": "2026-09-09T08:00:00+01:00", "title": "What a good estates manager asks before instructing" },
+    { "id": "p-104", "publishedAt": "2026-09-16T08:15:00+01:00", "title": "Reinstatement cost: the number nobody checks" },
+    { "id": "p-105", "publishedAt": "2026-09-19T12:30:00+01:00", "title": "Hiring: we are looking for a building surveyor" },
+    { "id": "p-106", "publishedAt": "2026-09-25T08:00:00+01:00", "title": "Twelve months of posting: what actually generated work" }
+  ],
+  "engagements": [
+    { "postId": "p-102", "type": "comment",  "personName": "Daniel Whitmore", "profileUrl": "https://www.linkedin.com/in/daniel-whitmore-fd", "headline": "Finance Director at Halden Logistics", "company": "Halden Logistics", "at": "2026-09-02T13:40:00+01:00", "text": "We had exactly this on a warehouse exit in March. The schedule arrived after the lease ended and nobody had a photo record. Interested in how you handle the evidence side." },
+    { "postId": "p-104", "type": "reaction", "personName": "Daniel Whitmore", "profileUrl": "https://www.linkedin.com/in/daniel-whitmore-fd", "headline": "Finance Director at Halden Logistics", "company": "Halden Logistics", "at": "2026-09-16T18:02:00+01:00" },
+    { "postId": "p-105", "type": "reaction", "personName": "Daniel Whitmore", "profileUrl": "https://www.linkedin.com/in/daniel-whitmore-fd", "headline": "Finance Director at Halden Logistics", "company": "Halden Logistics", "at": "2026-09-19T14:20:00+01:00" },
+
+    { "postId": "p-105", "type": "reaction", "personName": "Grace Mensah", "profileUrl": "https://www.linkedin.com/in/gracemensah", "headline": "CFO, Larkspur Hotels", "company": "Larkspur Hotels", "at": "2026-09-20T07:45:00+01:00" },
+    { "postId": "p-106", "type": "comment",  "personName": "Grace Mensah", "profileUrl": "https://www.linkedin.com/in/gracemensah", "headline": "CFO, Larkspur Hotels", "company": "Larkspur Hotels", "at": "2026-09-27T22:15:00+01:00", "text": "This is the most honest post on here in months. Which of the twelve months did the work actually land in?" },
+
+    { "postId": "p-101", "type": "reaction", "personName": "Tom Okafor", "profileUrl": "https://www.linkedin.com/in/tomokafor", "headline": "Operations Director, Brightwater Care Group", "company": "Brightwater Care Group", "at": "2026-09-01T09:12:00+01:00" },
+    { "postId": "p-103", "type": "comment",  "personName": "Thomas Okafor", "profileUrl": "https://www.linkedin.com/in/tomokafor", "headline": "Operations Director, Brightwater Care Group", "company": "Brightwater Care Group", "at": "2026-09-20T11:05:00+01:00", "text": "Sharing this with our estates team. The second question is the one they never ask." },
+
+    { "postId": "p-103", "type": "reaction", "personName": "Rafael Gomez", "profileUrl": "https://www.linkedin.com/in/rafael-gomez-gc", "headline": "Managing director at Gomez Construction Ltd", "company": "Gomez Construction Ltd", "at": "2026-09-10T07:30:00+01:00" },
+    { "postId": "p-106", "type": "reaction", "personName": "Rafael Gomez", "profileUrl": "https://www.linkedin.com/in/rafael-gomez-gc", "headline": "Managing director at Gomez Construction Ltd", "company": "Gomez Construction Ltd", "at": "2026-09-26T06:58:00+01:00" },
+
+    { "postId": "p-105", "type": "reaction", "personName": "Hannah Steel", "profileUrl": "https://www.linkedin.com/in/hannah-steel", "headline": "Head of Property, Meridian Retail", "company": "Meridian Retail", "at": "2026-09-19T13:00:00+01:00" },
+    { "postId": "p-105", "type": "comment",  "personName": "Hannah Steel", "profileUrl": "https://www.linkedin.com/in/hannah-steel", "headline": "Head of Property, Meridian Retail", "company": "Meridian Retail", "at": "2026-09-24T09:05:00+01:00", "text": "Congrats!" },
+
+    { "postId": "p-103", "type": "comment",  "personName": "James Lee", "profileUrl": "https://www.linkedin.com/in/james-lee-a1", "headline": "Estates Manager at Kingsmead NHS Trust", "company": "Kingsmead NHS Trust", "at": "2026-09-11T19:40:00+01:00", "text": "Adding a fourth: who is actually going to be on site, and how often." },
+
+    { "postId": "p-101", "type": "reaction", "personName": "James Lee", "profileUrl": "https://www.linkedin.com/in/jameslee-recruit", "headline": "Talent Partner at Fenwick Recruitment", "company": "Fenwick Recruitment", "at": "2026-09-01T10:00:00+01:00" },
+    { "postId": "p-102", "type": "reaction", "personName": "James Lee", "profileUrl": "https://www.linkedin.com/in/jameslee-recruit", "headline": "Talent Partner at Fenwick Recruitment", "company": "Fenwick Recruitment", "at": "2026-09-02T10:00:00+01:00" },
+    { "postId": "p-105", "type": "reaction", "personName": "James Lee", "profileUrl": "https://www.linkedin.com/in/jameslee-recruit", "headline": "Talent Partner at Fenwick Recruitment", "company": "Fenwick Recruitment", "at": "2026-09-19T12:45:00+01:00" },
+
+    { "postId": "p-101", "type": "comment",  "personName": "Sarah Quinn", "profileUrl": "https://www.linkedin.com/in/sarah-quinn-northgate", "headline": "Associate Surveyor at Northgate Surveyors", "company": "Northgate Surveyors", "at": "2026-08-30T09:00:00+01:00", "text": "Great post Priya." },
+    { "postId": "p-102", "type": "comment",  "personName": "Sarah Quinn", "profileUrl": "https://www.linkedin.com/in/sarah-quinn-northgate", "headline": "Associate Surveyor at Northgate Surveyors", "company": "Northgate Surveyors", "at": "2026-09-02T09:00:00+01:00", "text": "The photo record point is the big one." },
+    { "postId": "p-103", "type": "comment",  "personName": "Sarah Quinn", "profileUrl": "https://www.linkedin.com/in/sarah-quinn-northgate", "headline": "Associate Surveyor at Northgate Surveyors", "company": "Northgate Surveyors", "at": "2026-09-09T09:30:00+01:00", "text": "Sharing." },
+
+    { "postId": "p-104", "type": "comment",  "personName": "Marcus Bell", "profileUrl": "https://www.linkedin.com/in/marcusbell", "headline": "Managing Director, Bell & Partners", "company": "Bell & Partners", "at": "2026-09-17T08:00:00+01:00", "text": "We got caught by this in 2024. Painful." },
+
+    { "postId": "p-100", "type": "comment",  "personName": "Elena Rossi", "profileUrl": "https://www.linkedin.com/in/elena-rossi-coo", "headline": "COO at Vantage Facilities", "company": "Vantage Facilities", "at": "2026-07-30T10:00:00+01:00", "text": "Forty is a good sample. What was the split between office and industrial?" },
+    { "postId": "p-101", "type": "reaction", "personName": "Elena Rossi", "profileUrl": "https://www.linkedin.com/in/elena-rossi-coo", "headline": "COO at Vantage Facilities", "company": "Vantage Facilities", "at": "2026-08-29T08:30:00+00:00" },
+
+    { "postId": "p-104", "type": "reaction", "personName": "Owen Price", "profileUrl": "https://www.linkedin.com/in/owen-price-roofing", "headline": null, "company": "Price Roofing", "at": "2026-09-16T20:11:00+01:00" },
+    { "postId": "p-104", "type": "reaction", "personName": "Owen Price", "profileUrl": "https://www.linkedin.com/in/owen-price-roofing", "headline": null, "company": "Price Roofing", "at": "2026-09-16T20:11:00+01:00" },
+
+    { "postId": "p-101", "type": "reaction", "personName": "Lucy Tran", "profileUrl": "https://www.linkedin.com/in/lucytran", "headline": "Marketing Executive at Orbit Media", "company": "Orbit Media", "at": "2026-08-30T11:00:00+01:00" },
+
+    { "postId": "p-104", "type": "comment",  "personName": "Amir Khan", "profileUrl": "https://www.linkedin.com/in/amir-khan-fd", "headline": "Finance Director at Northgate Surveyors Ltd", "company": "Northgate Surveyors Ltd", "at": "2026-09-16T12:00:00+01:00", "text": "Worth adding that insurers rarely query it until there is a claim." },
+
+    { "postId": "p-106", "type": "reaction", "personName": "Ben Carter", "profileUrl": "https://www.linkedin.com/in/bencarter", "headline": "Founder at Carter Digital", "company": "Carter Digital", "at": "2026-09-25T09:30:00+01:00" },
+
+    { "postId": "p-102", "type": "comment",  "personName": "Priya Shah", "profileUrl": "https://www.linkedin.com/in/priya-shah-northgate", "headline": "Director at Northgate Surveyors", "company": "Northgate Surveyors", "at": "2026-09-02T14:10:00+01:00", "text": "Thanks Daniel, will drop you a note." }
+  ]
+}
